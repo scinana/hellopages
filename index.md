@@ -10,6 +10,9 @@ this is the index markdown file
 
 - when not using jekyll --> the index.html file will be loaded into the website by default
 
+<p align="center">
+  testing a paragraph in html
+</p>
 
 *testing images*
 
