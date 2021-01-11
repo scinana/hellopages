@@ -13,9 +13,9 @@ this is the index markdown file
 
 *testing images*
 
-![mimi1](./mimi1.jpg)   <br/>
-![mimi5](./mimi5.jpg)   <br/>
-![mimi6](./mimi6.jpg)
-![mimi8](./mimi8.jpg)
-![mimi10](./mimi10.jpg)
-![mimi12](./mimi12.JPG)
+![mimi1](./mimi1.jpg)   <br/><br/>
+![mimi5](./mimi5.jpg)   <br/><br/>
+![mimi6](./mimi6.jpg) <br/><br/>
+![mimi8](./mimi8.jpg) <br/><br/>
+![mimi10](./mimi10.jpg) <br/><br/>
+![mimi12](./mimi12.JPG) <br/><br/>
