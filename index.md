@@ -13,5 +13,9 @@ this is the index markdown file
 
 *testing images*
 
-![mimi1](https://user-images.githubusercontent.com/59035632/104128601-80ee5180-5360-11eb-89af-580fe28f4f67.jpg)
-
+![mimi1](./mimi1.jpg)   <br/>
+![mimi5](./mimi5.jpg)   <br/>
+![mimi6](./mimi6.jpg)
+![mimi8](./mimi8.jpg)
+![mimi10](./mimi10.jpg)
+![mimi12](./mimi12.JPG)
