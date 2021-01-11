@@ -2,21 +2,22 @@
 layout: default
 ---
 
-this is the index markdown file
+this is the index.md file
 
 ***test***  
 - when using a jekyll theme --> only the index.md file will be rendered into the website  
 - when not using jekyll --> the index.html file will be loaded into the website by default  
 
 ***testing images***
-
 <p align="center">
-      testing a paragraph in html <br/>
-    <img src="mimi1.jpg">   <br/><br/>
+      <b>testing a paragraph in html</b> <br/><br/>
+       <img src="mimi1.jpg">   <br/><br/>
+       <img src="mimi5.jpg">   <br/><br/>
+       <img src="mimi6.jpg">   <br/><br/>
+       <img src="mimi8.jpg">   <br/><br/>
 </p>
 
-   ![mimi5](./mimi5.jpg)   <br/><br/>
-    ![mimi6](./mimi6.jpg) <br/><br/>
-    ![mimi8](./mimi8.jpg) <br/><br/>
+**testing images in mardown**
+- how can i center elements that have been added in markdown?
     ![mimi10](./mimi10.jpg) <br/><br/>
     ![mimi12](./mimi12.JPG) <br/><br/>
