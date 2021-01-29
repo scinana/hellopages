@@ -11,9 +11,9 @@ this is the index.md file
 ***hyperlink test***  
 [test a hyperlink to my new subpage](page1/index.md)
 
-***testing images***
-- how can i center elements that have been added in markdown?
-Note: Github markdown doesn't support alignment of images (see )
+***testing images***  
+How to center images that have been added in markdown?  
+Github markdown doesn't support alignment of images (see [Centering images in README.md files, Stackoverflow](https://stackoverflow.com/questions/12090472/github-readme-md-center-image))  
 so the only way is to do it through direct html img tags. And for centering an image the only option is to put it inside a p tag and center it
 
 <p align="center">
