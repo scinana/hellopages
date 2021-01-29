@@ -12,13 +12,13 @@ this is the index.md file
 [test a hyperlink to my new subpage](page1/index.md)
 
 ***testing images***
+- how can i center elements that have been added in markdown?
+Note: Github markdown doesn't support alignment of images (see )
+so the only way is to do it through direct html img tags. And for centering an image the only option is to put it inside a p tag and center it
+
 <p align="center">
       <b>testing a paragraph in html</b> <br/><br/>
-       <img src="images/mimi1.jpg">   <br/><br/>
-       <img src="images/mimi5.jpg">   <br/><br/>
+       <img height="200px" src="images/mimi1.jpg">   <br/><br/>
+       <img height="200px" src="images/mimi5.jpg">   <br/><br/>
+	   <img src="images/mimi10.jpg">   <br/><br/>
 </p>
-
-**testing images in mardown**
-- how can i center elements that have been added in markdown?
-    ![mimi10](./images/mimi10.jpg) <br/><br/>
-    ![mimi12](./images/mimi12.JPG) <br/><br/>
