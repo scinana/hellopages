@@ -15,10 +15,10 @@ this is the index.md file
 <p align="center">
       <b>testing a paragraph in html</b> <br/><br/>
        <img src="images/mimi1.jpg">   <br/><br/>
-       <img src="mimi5.jpg">   <br/><br/>
+       <img src="images/mimi5.jpg">   <br/><br/>
 </p>
 
 **testing images in mardown**
 - how can i center elements that have been added in markdown?
-    ![mimi10](./mimi10.jpg) <br/><br/>
-    ![mimi12](./mimi12.JPG) <br/><br/>
+    ![mimi10](./images/mimi10.jpg) <br/><br/>
+    ![mimi12](./images/mimi12.JPG) <br/><br/>
