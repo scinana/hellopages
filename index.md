@@ -14,7 +14,7 @@ this is the index.md file
 ***testing images***
 <p align="center">
       <b>testing a paragraph in html</b> <br/><br/>
-       <img src="mimi1.jpg">   <br/><br/>
+       <img src="images/mimi1.jpg">   <br/><br/>
        <img src="mimi5.jpg">   <br/><br/>
 </p>
 
