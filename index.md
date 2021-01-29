@@ -9,7 +9,7 @@ this is the index.md file
 - when not using jekyll --> the index.html file will be loaded into the website by default  
 
 ***hyperlink test***  
-[test a hyperlink to my new subpage](.page1/index.md)
+[test a hyperlink to my new subpage](page1/index.md)
 
 ***testing images***
 <p align="center">
