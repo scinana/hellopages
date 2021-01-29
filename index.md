@@ -8,13 +8,14 @@ this is the index.md file
 - when using a jekyll theme --> only the index.md file will be rendered into the website  
 - when not using jekyll --> the index.html file will be loaded into the website by default  
 
+***hyperlink test***  
+[test a hyperlink to my new subpage](.page1/index.md)
+
 ***testing images***
 <p align="center">
       <b>testing a paragraph in html</b> <br/><br/>
        <img src="mimi1.jpg">   <br/><br/>
        <img src="mimi5.jpg">   <br/><br/>
-       <img src="mimi6.jpg">   <br/><br/>
-       <img src="mimi8.jpg">   <br/><br/>
 </p>
 
 **testing images in mardown**
