@@ -20,5 +20,5 @@ so the only way is to do it through direct html img tags. And for centering an i
       <b>testing a paragraph in html</b> <br/><br/>
        <img height="200px" src="images/mimi1.jpg">   <br/><br/>
        <img height="200px" src="images/mimi5.jpg">   <br/><br/>
-	   <img src="images/mimi10.jpg">   <br/><br/>
+       <img height="200px" src="images/mimi10.jpg">   <br/><br/>
 </p>
