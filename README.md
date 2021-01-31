@@ -2,7 +2,7 @@
 
 * This is the **readme.md** which is rendered as the "homepage" when opening my repo on Github
 
-* This repo will be used as a test for my hellopages page    <br/> <br/>
+* This repo will be used as a test for my hellopages page    <br/>
 
 **Theme for Github Pages:**  
 * I have added the Cayman theme as per the instructions at (need to add link)  
