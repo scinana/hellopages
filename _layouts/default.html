@@ -24,10 +24,10 @@
         <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">
-			 {% if food == "" %}
+			 {% if page.food == "" %}
 				There is no pizza!! I need pizza!!
 			{% else %}
-				Ah ... the pizza is here and it's got {{food}}
+				Ah ... the pizza is here and it's got {{page.food}}
 			{% endif %}
 	  </h2>
      </header>
