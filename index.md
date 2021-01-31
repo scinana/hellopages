@@ -1,5 +1,6 @@
 ---
 layout: default
+food: pears
 ---
 
 this is the index.md file
