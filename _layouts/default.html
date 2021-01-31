@@ -24,7 +24,7 @@
         <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">
-			 {% if page.food == "" %}
+			 {% if page.food == blank %}
 				There is no pizza!! I need pizza!!
 			{% else %}
 				Ah ... the pizza is here and it's got {{page.food}}
@@ -34,7 +34,8 @@
 
     <main id="content" class="main-content" role="main">
 		<a href="https://scinana.github.io/hellopages/">Homepage</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="https://scinana.github.io/hellopages/page1/">Subpage</a>
+		<a href="https://scinana.github.io/hellopages/page1/">Subpage 1</a>
+		<a href="https://scinana.github.io/hellopages/page1/testpage">Test Subpage 2</a>
       {{ content }}
 
       <footer class="site-footer">
