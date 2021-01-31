@@ -1,12 +1,12 @@
 # hellopages
 
-This is the **readme.md** which is rendered as the "homepage" when opening my repo on Github
+* This is the **readme.md** which is rendered as the "homepage" when opening my repo on Github
 
-This repo will be used as a test for my hellopages page    <br/> <br/>
+* This repo will be used as a test for my hellopages page    <br/> <br/>
 
 **Theme for Github Pages:**  
-I have added the Cayman theme as per the instructions at (need to add link)  
-Now that im using a theme, it will update all the metadata (md) files but will not update the html files, (taken from [this page](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser#:~:text=Under%20your%20repository%20name%2C%20click,your%20site's%20README.md%20file.))
+* I have added the Cayman theme as per the instructions at (need to add link)  
+* Now that im using a theme, it will update all the metadata (md) files but will not update the html files, (taken from [this page](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser#:~:text=Under%20your%20repository%20name%2C%20click,your%20site's%20README.md%20file.))
 
 
 **Modifying the layout of my Github Page**  
