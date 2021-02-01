@@ -21,9 +21,9 @@
   </head>
   
   <body>
-        <header class="page-header" role="banner">
+        <header class="page-header" role="banner" style = "color:red">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2>
+      <h2 class="project-tagline">
 			 {% if page.food == nil %}
 				There is no pizza!! I need pizza!!
 			{% else %}
